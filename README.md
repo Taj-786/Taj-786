@@ -15,7 +15,7 @@ Hello there! I’m Taj
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Taj-2005&label=Profile%20views&color=0e75b6&style=flat" alt="Taj-2005" /> </p>
 
 ## 🏆 GitHub Trophies
-![]([https://github-profile-trophy.vercel.app/?username=Brijeshthummar02&theme=default&no-frame=false&no-bg=false&margin-w=4](https://github-profile-trophy.vercel.app/?username=taj-2005))
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=taj-2005" alt="taj-2005" /></a> </p>
 
 
 <hr>
