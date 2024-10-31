@@ -62,7 +62,7 @@ Hello there! I’m Taj
 </div>
 
 
-[![An image of @brijeshthummar02's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/Taj-2005)](https://holopin.io/@Taj-2005)
+[![An image of @Taj-2005's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/Taj-2005)](https://holopin.io/@Taj-2005)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Taj-2005&limit=5&theme=panda&combine_all_yearly_contributions=true)
